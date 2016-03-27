@@ -24,6 +24,7 @@
     self.navigationItem.rightBarButtonItem = addButton;
     self.detailViewController = (DetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
     //some comment
+    // why isn't this working?
 
 }
 
