@@ -432,6 +432,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = davidruizrao.com.AideMemoire2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -443,6 +444,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = davidruizrao.com.AideMemoire2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -511,6 +513,7 @@
 				1D5785221CA8A3BC00FC264C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1D5785231CA8A3BC00FC264C /* Build configuration list for PBXNativeTarget "AideMemoire2Tests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +522,7 @@
 				1D5785251CA8A3BC00FC264C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1D5785261CA8A3BC00FC264C /* Build configuration list for PBXNativeTarget "AideMemoire2UITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +531,7 @@
 				1D5785281CA8A3BC00FC264C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
