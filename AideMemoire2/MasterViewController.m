@@ -24,7 +24,7 @@
     self.navigationItem.rightBarButtonItem = addButton;
     self.detailViewController = (DetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
     //some comment
-    // some other comment from computer 2
+    // some other comment from computer 2 yeah
 }
 
 - (void)viewWillAppear:(BOOL)animated {
